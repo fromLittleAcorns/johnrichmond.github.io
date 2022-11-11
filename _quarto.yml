@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "John Richmond"
+  site-url: https://fromLittleAcorns.github.io/john.richmond.github.io/
+  description: "7QN8N70N41's personal website"
+  repo-url: https://github.com/fromLittleAcorns/johnrichmond.github.io
+  repo-actions: [edit, issue]
+  open-graph: true
+  twitter-card:
+    creator: "@JohnWRichmond"
+    card-style: summary_large_image
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
+      - href: articles.gmd
+        text: Articles
+    right:
+      - icon: github
+        href: https://github.com/fromLittleAcorns/
+      - icon: linkedin
+        href: https://www.linkedin.com//
+      - icon: twitter
+        href: https://twitter.com/johnWRichmond
+      - icon: envelope
+        href: mailto:confusedjohn46@gmail.com
+      - icon: rss
+        href: blog.xml
+
+format:
+  html:
+    theme: 
+      light: sandstone
+      dark: darkly
+    mainfont: Roboto
+    css: styles.css
+    toc: true
+
+
+
