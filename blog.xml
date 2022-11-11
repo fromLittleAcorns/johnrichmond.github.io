@@ -10,7 +10,7 @@
 <atom:link href="https://fromLittleAcorns.github.io/john.richmond.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>7QN8N70N41&#39;s personal website</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Fri, 11 Nov 2022 10:22:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Nov 2022 11:22:01 GMT</lastBuildDate>
 <item>
   <title>Notebook to explore DiffEdit</title>
   <dc:creator>John Richmond</dc:creator>
@@ -390,7 +390,7 @@
 
  ]]></description>
   <guid>https://fromLittleAcorns.github.io/john.richmond.github.io/posts/2022-11-10-StableDiffusion/2022-11-11-diffedit_explore.html</guid>
-  <pubDate>Fri, 11 Nov 2022 10:22:39 GMT</pubDate>
+  <pubDate>Fri, 11 Nov 2022 11:22:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
