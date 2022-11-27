@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/posts/2022-11-30-fastai-course22p/04_dataloaders_optimisers_training.html</loc>
+    <lastmod>2022-11-27T14:36:41.866Z</lastmod>
+  </url>
+  <url>
     <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/posts/2022-11-10-StableDiffusion/2022-11-11-diffedit_explore.html</loc>
-    <lastmod>2022-11-11T11:26:04.292Z</lastmod>
+    <lastmod>2022-11-27T14:36:59.264Z</lastmod>
   </url>
   <url>
     <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/talks.html</loc>
-    <lastmod>2022-11-11T11:26:22.488Z</lastmod>
+    <lastmod>2022-11-27T14:37:16.168Z</lastmod>
   </url>
   <url>
     <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/talks/2020-12-15-OrcaHello/index.html</loc>
-    <lastmod>2022-11-11T11:26:23.063Z</lastmod>
+    <lastmod>2022-11-27T14:37:16.674Z</lastmod>
   </url>
   <url>
     <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/index.html</loc>
-    <lastmod>2022-11-11T11:26:23.763Z</lastmod>
+    <lastmod>2022-11-27T14:37:17.454Z</lastmod>
   </url>
   <url>
     <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/about.html</loc>
-    <lastmod>2022-11-11T11:26:24.510Z</lastmod>
+    <lastmod>2022-11-27T14:37:17.921Z</lastmod>
   </url>
   <url>
     <loc>https://fromLittleAcorns.github.io/john.richmond.github.io/blog.html</loc>
-    <lastmod>2022-11-11T11:26:25.396Z</lastmod>
+    <lastmod>2022-11-27T14:37:18.888Z</lastmod>
   </url>
 </urlset>
